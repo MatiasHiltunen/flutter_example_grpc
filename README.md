@@ -3,7 +3,8 @@
 
 This Flutter example utilizes gRPC and is created as a demonstration for Cross-Platform Mobile Application Development course.
 
-Dart gRPC Server for the app is found here: https://github.com/MatiasHiltunen/flutter_example_grpc
+Dart gRPC Server needed for the app is found here: https://github.com/MatiasHiltunen/dart_movies_server
+
 
 ## Protos
 
